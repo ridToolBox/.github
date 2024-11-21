@@ -6,12 +6,12 @@ A collection of actually useful .NET Standard 2.0 utility modules that somehow g
 
 | Package | Purpose | Status | Link |
 |---------|---------|--------|------|
-| `ridToolBox.Logger` | Highly configurable Logger | In Development | [Repository](example.com) |
-| `ridToolBox.InputSanitization` | Highly configurable Sanitizer | In Development | [Repository](example.com) |
+| `ridToolBox.Logger` | Highly configurable Logger | Active Development | [Repository](example.com) |
+| `ridToolBox.InputSanitization` | Highly configurable Sanitizer | Active Development | [Repository](example.com) |
 | `ridToolBox.Documentation` | It at least tries to document things | Brainstorming | [Repository](example.com) |
 | `ridToolBox.Data.Csv` | Collection helpers and extensions | Brainstorming | [Repository](example.com) |
 | `ridToolBox.Data.Excel` | Make Excels at least a bit usable in .NET | Brainstorming | [Repository](example.com) |
-| `ridToolBox.Data.Validator.Json` | Validate JSON schemas | Brainstorming | [Repository](example.com) |
+| `ridToolBox.Data.Validator.Json` | Validate JSON schemas | Maintenance | [Repository](example.com) |
 | `ridToolBox.Data.Valdiator.Xml` | Validate XML schemas | Brainstorming | [Repository](example.com) |
 | `ridToolBox.Text.Search` | Search Operations | Brainstorming | [Repository](example.com) |
 | `ridToolBox.Text.Extensions` | Even more to do with Strings | Brainstorming | [Repository](example.com) |
